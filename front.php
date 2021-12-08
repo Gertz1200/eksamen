@@ -11,6 +11,20 @@ include("./functions.php");
     <title>Farstrup furniture</title>
 </head>
 <body>
-    
+<!–– Her er der kodet overskriften -->
+<h1 style="color:WHITE;">Farstrup Furnitures</h1>
+<hr>
+<ul>
+        <a href="./product.php"><p style="color:red;">- Webshop</p>
+        
+    </ul>
 </body>
+<html>
+<style type="text/css">
+    body,td,th {
+    font-size: 28px;
+    color: #FFFFFF;
+    background: #363535;
+}
+</style>
 </html>
